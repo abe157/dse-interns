@@ -1,2 +1,0 @@
-# Deep Scene Estimation Palatalization 
-
